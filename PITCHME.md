@@ -1,11 +1,16 @@
 ---?image=template/img/presenter.jpg
 @title[What is GitPitch?]
 
-@snap[west h2-white h4-white]
-## What is<br>Git@css[text-gold](Pitch)?
+@snap[west h4-white]
+#### Question.
 @snapend
 
-@snap[south-west text-04 text-gray text-smallcaps]
+@snap[south-west h2-white h4-white]
+#### What is
+## Git@css[text-gold](Pitch)?
+@snapend
+
+@snap[north-east text-04 text-gray text-smallcaps]
 Press F to view slideshow in fullscreen mode.
 @snapend
 
@@ -55,39 +60,52 @@ Press F to view slideshow in fullscreen mode.
 #### @css[text-smallcaps text-gray text-06 fragment](By integrating seamlessly with modern developer tools, workflows, code, and data.<br>On GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
 
 ---
+
+@snap[west span-40]
+#### Well, sharing @css[text-gold text-bold](technical knowledge) and other things too...@fa[smile-o fa-spin]
+@snapend
+
+@snap[east]
+@img[humor-box](assets/img/instagram.png)
+@snapend
+
+---
 @title[How Good Is GitPitch?]
 
-#### But don't just take my word for it.
+#### But don't just take my word for it @fa[hand-o-right]
 
----?image=template/img/grass.png&opacity=10
+---?image=assets/img/audience.png&color=#E58537&position=bottom&size=100% 40%
 @title[Listen To Developers]
 
 
-@snap[north-west text-08 span-55]
-@quote[GitPitch...the first time in my life when preparing slides was a pleasure.](Rafal P.)
+@snap[north text-07 text-white span-90]
+@quote[GitPitch...the first time in my life when preparing slides was a pleasure.](@fa[twitter] @pocztarski)
 @snapend
 
-@snap[south-west text-08 span-30]
-@quote[Just discovered GitPitch. And WOW!](Adrian K.)
+@snap[west text-06 text-white span-30]
+@quote[Just discovered GitPitch. And WOW!](@fa[twitter] @akosma)
 @snapend
 
-@snap[midpoint text-10 span-80]
-@quote[The best slide creation tool I've ever used.](Mike R.)
+@snap[midpoint text-08 text-white span-15]
+@quote[The best slide creation tool I've ever used.](@fa[twitter] @PermittedSoc)
 @snapend
 
-@snap[north-east text-10 span-25]
-@quote[GitPitch is just WONDERFUL!](Mohammed A.)
-@snapend
-
-@snap[south-east span-50]
-@quote[GitPitch Desktop with speaker notes is AMAZING!](Dave T.)
+@snap[east text-06 text-white span-30]
+@quote[GitPitch Desktop with speaker notes is AMAZING!](@fa[twitter] @davetapley)
 @snapend
 
 ---
 @title[Questions & Answers]
 
+@snap[north-east span-50 text-06]
+[Come talk to me on Twitter @fa[twitter] @gitpitch](https://twitter.com/gitpitch)
+@snapend
+
 @snap[east span-50 text-06]
 ![](template/img/questions-4.png)
-[Learn More in the official GitPitch Docs @fa[external-link]](https://gitpitch.com/docs)
+@snapend
+
+@snap[south-east span-50 text-06]
+[Or browse the official GitPitch Docs @fa[external-link]](https://gitpitch.com/docs)
 @snapend
 
