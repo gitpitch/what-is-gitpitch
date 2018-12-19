@@ -62,7 +62,7 @@ Press F to view slideshow in fullscreen mode.
 ---
 
 @snap[west span-40]
-#### Well, sharing @css[text-gold text-bold](technical knowledge) and other things too...@fa[smile-o fa-spin]
+#### Well, sharing @css[text-gold text-bold](technical knowledge), code, training materials, and other things too...@fa[smile-o fa-spin]
 @snapend
 
 @snap[east]
