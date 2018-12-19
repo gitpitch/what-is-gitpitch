@@ -5,7 +5,7 @@
 #### Question.
 @snapend
 
-@snap[south-west h2-white h4-white]
+@snap[south-west h2-white h4-gray]
 #### What is
 ## Git@css[text-gold](Pitch)?
 @snapend
