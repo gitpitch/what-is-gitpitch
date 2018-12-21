@@ -284,7 +284,8 @@ div.docslink a:hover {
   font-family: "Raleway Medium", sans-serif !important;
 }
 
-.reveal h2 {
+.reveal h2,
+.reveal h3 {
   text-shadow: none !important;
   text-transform: none !important;
   font-family: "Montserrat Heavy", sans-serif !important;
