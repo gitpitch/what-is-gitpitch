@@ -106,6 +106,6 @@ Press F to view slideshow in fullscreen mode.
 @snapend
 
 @snap[south-east span-50 text-06]
-[Or browse the official GitPitch Docs @fa[external-link]](https://gitpitch.com/docs)
+[Or take a quick GitPitch Feature Tour @fa[external-link]](https://gitpitch.com/features)
 @snapend
 
