@@ -1,4 +1,4 @@
----?image=template/img/presenter.jpg
+---?image=assets/img/presenter.jpg
 @title[What is GitPitch?]
 
 @snap[west h4-white]
@@ -14,32 +14,32 @@
 Press F to view slideshow in fullscreen mode.
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=35% 50%
+---?image=assets/img/bg/blue.jpg&position=left&size=35% 50%
 @title[Modern Slide Decks]
 
 @snap[west h4-white]
 #### Answer.
 @snapend
 
-@snap[east span-70]
+@snap[east span-65]
 #### GitPitch is a @css[text-gold text-bold text-14](modern)
 ## **PowerPoint**.
-@css[text-06 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
+@css[text-065 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
 @snapend
 
----?image=template/img/bg/black.jpg&position=left&size=35% 100%
+---?image=assets/img/bg/black.jpg&position=left&size=35% 100%
 @title[What problem solved?]
 
 @snap[west h4-white]
 #### Question.
 @snapend
 
-@snap[east span-80]
+@snap[east span-65]
 #### What problem does GitPitch
 ## @css[text-gold text-bold](solve)@fa[question]
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=35% 50%
+---?image=assets/img/bg/blue.jpg&position=left&size=35% 50%
 @title[Technical Knowledge]
 
 @snap[west h4-white]
@@ -49,15 +49,17 @@ Press F to view slideshow in fullscreen mode.
 @snap[east span-70]
 #### Sharing @css[text-gold text-bold](technical knowledge)
 ## **is hard**.
-@css[text-05 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
+@css[text-055 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
 @snapend
 
 ---
 @title[Sharing Made Easy]
 
+@snap[midpoint h4-reduced span-100]
 #### GitPitch makes sharing @css[text-gold text-bold](technical knowledge) *easy*.
 
 #### @css[text-smallcaps text-gray text-06 fragment](By integrating seamlessly with modern developer tools, workflows, code, and data.<br>On GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
+@snapend
 
 ---
 
@@ -72,25 +74,27 @@ Press F to view slideshow in fullscreen mode.
 ---
 @title[How Good Is GitPitch?]
 
+@snap[midpoint span-80]
 #### But don't just take my word for it @fa[hand-o-right]
+@snapend
 
 ---?image=assets/img/audience.png&color=#E58537&position=bottom&size=100% 40%
 @title[Listen To Developers]
 
 
-@snap[north text-07 text-white span-90]
+@snap[north text-08 text-white span-90]
 @quote[GitPitch...the first time in my life when preparing slides was a pleasure.](@fa[twitter] @pocztarski)
 @snapend
 
-@snap[west text-06 text-white span-30]
+@snap[west text-07 text-white span-30]
 @quote[Just discovered GitPitch. And WOW!](@fa[twitter] @akosma)
 @snapend
 
-@snap[midpoint text-08 text-white span-15]
+@snap[midpoint text-09 text-white span-20]
 @quote[The best slide creation tool I've ever used.](@fa[twitter] @PermittedSoc)
 @snapend
 
-@snap[east text-06 text-white span-30]
+@snap[east text-07 text-white span-30]
 @quote[GitPitch Desktop with speaker notes is AMAZING!](@fa[twitter] @davetapley)
 @snapend
 
@@ -102,7 +106,7 @@ Press F to view slideshow in fullscreen mode.
 @snapend
 
 @snap[east span-50 text-06]
-![](template/img/questions-4.png)
+![](assets/img/questions-4.png)
 @snapend
 
 @snap[south-east span-50 text-06]
