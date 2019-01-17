@@ -60,6 +60,7 @@ Press F to view slideshow in fullscreen mode.
 #### @css[text-smallcaps text-gray text-06 fragment](By integrating seamlessly with modern developer tools, workflows, code, and data.<br>On GitHub @fa[github], GitLab @fa[gitlab], and Bitbucket @fa[bitbucket])
 
 ---
+@title[Sharng Everything]
 
 @snap[west span-40]
 #### Well, sharing @css[text-gold text-bold](technical knowledge), code, training materials, and other things too...@fa[smile-o fa-spin]
