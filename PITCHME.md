@@ -63,7 +63,7 @@ Press F to view slideshow in fullscreen mode.
 @title[Sharng Everything]
 
 @snap[west text-09 span-40]
-#### Well, sharing @css[text-gold text-bold](technical knowledge), including `live code`, charts, formulas, modular training materials, and serious image content too...@fa[smile-o fa-spin]
+#### Well, sharing @css[text-gold text-bold](technical knowledge), plus @css[text-smallcaps](live code), config, charts, formulas, modular training materials, and serious image content too...@fa[smile-o fa-spin]
 @snapend
 
 @snap[east span-50]
