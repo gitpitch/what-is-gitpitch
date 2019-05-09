@@ -62,13 +62,14 @@ Press F to view slideshow in fullscreen mode.
 ---
 @title[Sharng Everything]
 
-@snap[west text-09 span-40]
-#### Well, sharing @css[text-gold text-bold](technical knowledge), plus @css[text-smallcaps](live code), config, charts, formulas, modular training materials, and serious image content too...@fa[smile-o fa-spin]
+@snap[north-west text-08 span-100]
+#### @css[text-gold text-bold](Technical knowledge) of all kinds, including @css[text-smallcaps](live code), config, charts, formulas, images, modular training materials, and more.
 @snapend
 
-@snap[east span-50]
-@img[humor-box](assets/img/instagram.png)
+@snap[south span-80]
+@img[humor-box](assets/img/slide-collage.png)
 @snapend
+
 
 ---
 @title[How Good Is GitPitch?]
