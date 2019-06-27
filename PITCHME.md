@@ -1,4 +1,4 @@
----?image=template/img/presenter.jpg
+---?image=assets/img/presenter.jpg
 @title[What is GitPitch?]
 
 @snap[west h4-white]
@@ -116,7 +116,7 @@ Q. What problem does GitPitch solve?
 @snapend
 
 @snap[east span-50 text-06]
-![](template/img/questions-4.png)
+![](assets/img/questions.png)
 @snapend
 
 @snap[south-east span-50 text-06]
