@@ -88,7 +88,7 @@ Q. What problem does GitPitch solve?
 @title[Listen To Developers]
 
 
-@snap[north text-07 text-white span-90]
+@snap[north text-06 text-white span-90]
 @quote[GitPitch...the first time in my life when preparing slides was a pleasure.](@fa[twitter] @pocztarski)
 @snapend
 
