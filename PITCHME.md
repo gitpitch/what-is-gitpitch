@@ -14,8 +14,12 @@
 Press F to view slideshow in fullscreen mode.
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=35% 50%
+---?color=linear-gradient(90deg, #5289F7 30%, white 30%)
 @title[Modern Slide Decks]
+
+@snap[north-east text-gray text-05]
+Q. What is GitPitch?
+@snapend
 
 @snap[west h4-white]
 #### Answer.
@@ -27,7 +31,7 @@ Press F to view slideshow in fullscreen mode.
 @css[text-06 fragment](Uniquely adapted for the @css[text-gold text-bold](developer community) on Git.)
 @snapend
 
----?image=template/img/bg/black.jpg&position=left&size=35% 100%
+---?color=linear-gradient(90deg, black 30%, white 30%)
 @title[What problem solved?]
 
 @snap[west h4-white]
@@ -39,8 +43,12 @@ Press F to view slideshow in fullscreen mode.
 ## @css[text-gold text-bold](solve)@fa[question]
 @snapend
 
----?image=template/img/bg/blue.jpg&position=left&size=35% 50%
+---?color=linear-gradient(90deg, #5289F7 30%, white 30%)
 @title[Technical Knowledge]
+
+@snap[north-east text-gray text-05]
+Q. What problem does GitPitch solve?
+@snapend
 
 @snap[west h4-white]
 #### Answer.
@@ -49,7 +57,7 @@ Press F to view slideshow in fullscreen mode.
 @snap[east span-70]
 #### Sharing @css[text-gold text-bold](technical knowledge)
 ## **is hard**.
-@css[text-05 fragment](When using legacy presentation tools like PowerPoint and Keynote.)
+@css[text-06 fragment](When using legacy presentation tools like PowerPoint.)
 @snapend
 
 ---
@@ -71,12 +79,12 @@ Press F to view slideshow in fullscreen mode.
 @snapend
 
 
----
+---?color=linear-gradient(90deg, white 90%, #5289F7 10%)
 @title[How Good Is GitPitch?]
 
 #### But don't just take my word for it @fa[hand-o-right]
 
----?image=assets/img/audience.png&color=#E58537&position=bottom&size=100% 40%
+---?image=assets/img/audience.png&color=#5289F7&position=bottom&size=100% 40%
 @title[Listen To Developers]
 
 
@@ -84,20 +92,24 @@ Press F to view slideshow in fullscreen mode.
 @quote[GitPitch...the first time in my life when preparing slides was a pleasure.](@fa[twitter] @pocztarski)
 @snapend
 
-@snap[west text-06 text-white span-30]
+@snap[west text-06 text-white span-32]
 @quote[Just discovered GitPitch. And WOW!](@fa[twitter] @akosma)
 @snapend
 
-@snap[midpoint text-08 text-white span-15]
+@snap[midpoint text-07 text-white span-15]
 @quote[The best slide creation tool I've ever used.](@fa[twitter] @PermittedSoc)
 @snapend
 
-@snap[east text-06 text-white span-30]
+@snap[east text-06 text-white span-32]
 @quote[GitPitch Desktop with speaker notes is AMAZING!](@fa[twitter] @davetapley)
 @snapend
 
----
+---?color=linear-gradient(90deg, #5289F7 30%, white 30%)
 @title[Questions & Answers]
+
+@snap[west h1-white]
+# @fa[user-friends]
+@snapend
 
 @snap[north-east span-50 text-06]
 [Come talk to me on Twitter @fa[twitter] @gitpitch](https://twitter.com/gitpitch)
@@ -110,4 +122,3 @@ Press F to view slideshow in fullscreen mode.
 @snap[south-east span-50 text-06]
 [Or take a quick GitPitch Feature Tour @fa[external-link]](https://gitpitch.com/features)
 @snapend
-

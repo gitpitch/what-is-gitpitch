@@ -13,7 +13,9 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : template
+theme-headline : [ "Montserrat", "black", "none"]
+theme-byline   : [ "Raleway", "black", "none"]
 
 #
 # Theme-Override Setting
@@ -32,7 +34,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "GitPitch - Modern Slide Decks for Developers"
 
 #
 # Highlight (Code) Setting
