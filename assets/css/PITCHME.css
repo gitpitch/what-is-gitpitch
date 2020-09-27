@@ -1,10 +1,7 @@
-.humor-box {
-  box-shadow:0 10px 16px 10px rgba(0,0,0,0.2),
-    0 6px 20px 10px rgba(0,0,0,0.19) !important;
-}
+// Your CSS custom style rules go here.
 
-.reveal blockquote {
-    padding: 17px;
-    border-radius: 17px;
-    background: rgba(255,255,255,0.2);
-}
+.h2-spaced { letter-spacing: 8px !important; }
+.blue-faded { color: #0082F3 !important; }
+.red-faded { color: #FF5950 !important; }
+.rounded { border-radius: 20px !important; }
+
